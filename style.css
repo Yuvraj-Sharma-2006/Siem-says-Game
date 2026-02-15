@@ -1,0 +1,35 @@
+body{
+   text-align:center;
+}
+
+.btn-container{
+   display:flex;
+   justify-content:center;
+}
+
+.btn{
+   height:200px;
+   width:200px;
+   margin:2rem;
+   border:10px solid black;
+   border-radius : 20%;
+}
+
+.red{
+   background-color:rgb(232, 75, 140);
+}
+
+.green{
+   background-color:cadetblue;
+}
+.orange{
+   background-color:orange;
+}
+
+.blue{
+   background-color:cornflowerblue;
+}
+
+.flash{
+   background-color:white;
+}
